@@ -1,12 +1,15 @@
 {
-  "name": "erics-react-portfolio",
+  "homepage": "https://ericjcili.github.io/react-portfolio/",
+  "name": "react-portfolio",
   "version": "1.0.0",
   "description": "a portfolio utilizing react",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "author": "",
   "license": "ISC",
@@ -34,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
