@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import Resume from './pages/Resume';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route exact path='/' component={Home} />
         <Route exact path='/projects' component={Projects} />
         <Route exact path='/contact' component={Contact} />
+        <Route exact path='/resume' component={Resume} />
         <Footer />
       </div>
     </Router>
