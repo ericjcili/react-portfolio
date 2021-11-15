@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Run Buddy",
+        "github": "https://github.com/ericjcili/run-buddy",
+        "url": "https://lernantino.github.io/run-buddy/",
+        "image": "src/assets/run-buddy.png",
+        "about": "Run Buddy was the first website I ever made. This is where I learned the fundamentals of HTML and CSS."
+    },
+    {
+        "id": 2,
+        "title": "Decide Eat",
+        "github": "https://github.com/Padredilg/decide-eat",
+        "url": "https://padredilg.github.io/decide-eat/", 
+        "image": "src/assets/decide-eats.png",
+        "about": "This was the first major project that I did in my coding bootcamp. Here, we use HTML and CSS for a beautiful, professional website design. We also used Web-APIs to search information from external databases!"
+    },
+    {
+        "id": 3,
+        "title": "Progrum",
+        "github": "https://github.com/ericjcili/project-2",
+        "url": "https://progrum.herokuapp.com/",
+        "image": "src/assets/progrum.png",
+        "about": "This was the second major project in my coding bootcamp. Don't be fooled by its simple design, this website uses MySQL as a database to store user data including username, email, password, posts and comments. A simple, easy-to-use forum website for programmers."
+    },
+    {
+        "id": 4,
+        "title": "Password Generator",
+        "github": "https://github.com/ericjcili/password-generator",
+        "url": "",
+        "image": "src/assets/pass-gen.png",
+        "about": "This application truly put my Javascript skills to the test. Here, you can generate a random password based on user input."
+    },
+    {
+        "id": 5,
+        "title": "README Generator",
+        "github": "https://github.com/ericjcili/readme-generator",
+        "url": "",
+        "image": "src/assets/readme-gen.png",
+        "about": "This README Generator is an application ran solely through the command line (terminal). Using node.js and npm packages, this app collects user input to instantly create a professional README page."
+    },
+    {
+        "id": 6,
+        "title": "E-Commerce Back End",
+        "github": "https://github.com/ericjcili/challenge-13",
+        "url": "",
+        "image": "",
+        "about": "This challenge gave me an e-commerce website and required that I create a database using MySQL and upload their data to the database."
+    }
+]
