@@ -4,7 +4,7 @@
         "title": "Run Buddy",
         "github": "https://github.com/ericjcili/run-buddy",
         "url": "https://lernantino.github.io/run-buddy/",
-        "image": "src/assets/run-buddy.png",
+        "image": "runBuddyImage",
         "about": "Run Buddy was the first website I ever made. This is where I learned the fundamentals of HTML and CSS."
     },
     {
@@ -46,5 +46,14 @@
         "url": "",
         "image": "",
         "about": "This challenge gave me an e-commerce website and required that I create a database using MySQL and upload their data to the database."
+    },
+    {
+        "id": 7,
+        "title": "Recipe List",
+        "github": "https://github.com/ericjcili/easy-recipe",
+        "url": "https://protected-forest-31022.herokuapp.com/posts",
+        "image": "",
+        "about": "This application fully utilizes React, express, node.js, and MongoDB to create a functional recipe blogging post."
+
     }
 ]
