@@ -3,3 +3,17 @@
     height: 100px;
     width: 100px;
 }
+footer {
+    background-color: rgb(243, 243, 243);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.socials {
+    background-color: rgb(243, 243, 243);
+    
+
+}
+svg {
+    background-color: rgb(243, 243, 243);
+
+}
